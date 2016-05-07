@@ -1,0 +1,16 @@
+{
+  "name": "edocs-utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "simon",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "commander": "^2.9.0",
+    "moment": "^2.13.0"
+  },
+  "bin": {
+    "new-edoc": "index.js"
+  }
+}
